@@ -25,6 +25,9 @@ Dark / Light theme toggle
 Side-by-side algorithm comparison mode
 Navigate into the project folder:
 
+<img width="1770" height="820" alt="{6A61F9C7-218F-4F1C-8CEF-6080ED85ACF4}" src="https://github.com/user-attachments/assets/bbd75c84-1f85-4442-a3fb-78ff75d23554" />
+
+
 cd sorting-visualizer
 Install dependencies:
 npm install
