@@ -23,4 +23,11 @@ Add more algorithms (Heap Sort, Radix Sort, Shell Sort, etc.)
 Dark / Light theme toggle
 
 Side-by-side algorithm comparison mode
+Navigate into the project folder:
 
+cd sorting-visualizer
+Install dependencies:
+npm install
+Start the development server:
+npm start
+The app will run on http://localhost:3000/.
